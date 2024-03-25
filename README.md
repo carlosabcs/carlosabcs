@@ -1,4 +1,4 @@
-### Hello there👋
+### Hello!
 
 I'm Carlos Abel, a Computer Scientist from Peru. I work as a Software Engineer, focused mostly in Fullstack Web Development using JavaScript/TypeScript and Vue/React frameworks.
 
